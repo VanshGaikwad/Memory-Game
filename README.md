@@ -2,6 +2,11 @@
 
 A simple and fun memory game built with React and Vite. Test your memory by matching pairs of cards!
 
+## Live Demo
+
+You can play the live version of the game here: [Memory Game Demo](https://69197f7e872fbccd34a26a0c--soft-pavlova-b1122e.netlify.app/)
+
+
 ## Features
 
 - **Interactive Gameplay:** Click to flip cards and find matching pairs.
